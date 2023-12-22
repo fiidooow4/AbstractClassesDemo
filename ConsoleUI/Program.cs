@@ -14,7 +14,7 @@ namespace ConsoleUI
              * Todo: Follow all comments!! 
              * Double click on the region (gray box) to view all comments
              */
-
+            Console.WriteLine("test");
             #region Vehicles
 
             /*
